@@ -7,3 +7,5 @@ class WizardClass(HumanClass):
 
 wizard = WizardClass()
 wizard.defend()
+
+# クラステスト
